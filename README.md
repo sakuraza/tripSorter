@@ -21,7 +21,8 @@ Then run index.php
 To run tests make sure you have install phpunit globally.
 
 ## Improvement
-Make an abstract class for the transportation. Add class for Flight, train, bus which extend the transport class.
+Make an abstract class for the transportation. 
+Add class for Flight, train, bus which extend the transport class.
 For new type of transportation make a class which extend the abstract class 'transportation'.
 Make a class boarding card instead of the current array.
 
