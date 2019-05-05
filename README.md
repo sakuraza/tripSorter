@@ -1,5 +1,6 @@
 # Installation
 Extract the zip file to your workspace (ex c:/wamp/www/).
+Installe PHPUNIT : composer require --dev phpunit/phpunit
 
 # Run the application
 the stack of boarding cards in entry :
