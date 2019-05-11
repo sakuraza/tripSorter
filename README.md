@@ -1,5 +1,3 @@
-This project was bootstrapped with Create React App.
-
 # Installation
 Extract the zip file to your workspace (ex c:/wamp/www/).
 
